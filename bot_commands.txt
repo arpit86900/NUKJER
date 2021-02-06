@@ -1,0 +1,7 @@
+Nuke Bot | n!help
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+n!nuke - Bans all members & deletes all roles and channels
+n!delete - Deletes all channels and roles
+n!ban - Bans all members in the discord
+Have Fun!
